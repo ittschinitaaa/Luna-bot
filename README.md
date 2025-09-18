@@ -51,7 +51,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/The-King-Destroy/YukiBot-MD && cd YukiBot-MD
+git clone https://github.com/ittschinitaaa/Luna-bot && cd Luna-bot
 ```
 ```bash
 yarn install
@@ -93,19 +93,19 @@ pm2 start index
 ### En caso de detenerse
 > _Si despues que ya instalastes el bot y termux te salta en blanco, se fue tu internet o reiniciaste tu celular, solo realizaras estos pasos:_
 ```bash
-cd && cd YukiBot-MD && npm start
+cd && cd Luna-bot && npm start
 ```
 ----
 ### Obtener nuevo código QR 
-> *Detén el bot, haz click en el símbolo (ctrl) [default=z] usar la letra "z" + "ENTER" hasta que salga algo verdes similar a: `YukiBot-MD $`*
+> *Detén el bot, haz click en el símbolo (ctrl) [default=z] usar la letra "z" + "ENTER" hasta que salga algo verdes similar a: `Luna-bot`*
 > **Escribe los siguientes comandos uno x uno :**
 ```bash 
-cd && cd YukiBot-MD && rm -rf sessions/Principal && npm run qr
+cd && cd Luna-bot && rm -rf sessions/Principal && npm run qr
 ```
 ----
 ### Obtener nuevo código de teléfono 
 ```bash 
-cd && cd YukiBot-MD && rm -rf sessions/Principal && npm run code
+cd && cd Luna-bot && rm -rf sessions/Principal && npm run code
 ```
 </details>
 
