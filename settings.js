@@ -13,9 +13,9 @@ global.botNumber = "" //Ejemplo: 573218138672
 
 global.owner = [
 // <-- Número @s.whatsapp.net -->
-["573196588149", "🜲 Propietario 🜲", true],
-["5492916450307"],
-["5216671548329"],  
+["923256941884", "🜲 Propietario 🜲", true],
+["5492644996684"],
+["573243768166"],  
 // <-- Número @lid -->
 ["254722313334852", "Destroy", true],
 ["258892692984006", "DevAlexJs", true], 
@@ -23,14 +23,14 @@ global.owner = [
 ]
 
 global.mods = []
-global.suittag = ["573196588149"] 
+global.suittag = ["923256941884"] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.libreria = "Baileys Multi Device"
 global.vs = "^1.8.2|Latest"
-global.nameqr = "YukiBot-MD"
+global.nameqr = "𝐋𝐮𝐧𝐚 𝐁𝐨𝐭"
 global.sessions = "Sessions/Principal"
 global.jadi = "Sessions/SubBot"
 global.yukiJadibts = true
@@ -50,12 +50,12 @@ global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.group = "https://chat.whatsapp.com/HaKf6ezcwdbGzmH782eBal"
-global.community = "https://chat.whatsapp.com/G0kXqsteJFU74yrLtg79o6"
-global.channel = "https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n"
+global.community = "https://whatsapp.com/channel/0029Vb6KW2Y0AgW5RA4QIS1B"
+global.channel = "https://whatsapp.com/channel/0029Vb6GYInD8SDuyzHk3f3l"
 global.github = "https://github.com/ittschinitaaa/Luna-bot"
 global.gmail = "itts.chinitaaa@gmail.com"
 global.ch = {
-ch1: "120363401404146384@newsletter"
+ch1: "120363402839382986@newsletter"
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
