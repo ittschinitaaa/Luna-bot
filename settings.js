@@ -13,13 +13,13 @@ global.botNumber = "" //Ejemplo: 573218138672
 
 global.owner = [
 // <-- Número @s.whatsapp.net -->
-["923256941884", "🜲 Propietario 🜲", true],
+["923256941884", "🜲 𝐏𝐫𝐨𝐩𝐢𝐞𝐭𝐚𝐫𝐢𝐚 🜲", true],
 ["5492644996684"],
 ["573243768166"],  
 // <-- Número @lid -->
-["254722313334852", "Destroy", true],
-["258892692984006", "DevAlexJs", true], 
-["58566677377081", "Legna", true]
+["254722313334852", "𝕮𝖍𝖎𝖓𝖆 🔥", true],
+["258892692984006", "𝕮𝖍𝖎𝖓𝖆 ² 🔥", true], 
+["58566677377081", "𝕮𝖍𝖎𝖓𝖆 ³ 🔥", true]
 ]
 
 global.mods = []
@@ -43,7 +43,7 @@ global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥴһіᥒᥲ 🔥"
 global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ᥴһіᥒᥲ🔥"
 global.etiqueta = "ᥴһіᥒᥲ"
 global.currency = "¥enes"
-global.banner = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg"
+global.banner = "https://files.catbox.moe/jgw4fy.jpg"
 global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"
 global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
