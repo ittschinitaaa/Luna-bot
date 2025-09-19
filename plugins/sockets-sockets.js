@@ -76,7 +76,7 @@ if (typeof global.reloadHandler !== 'function')
 throw new Error('No se encontró la función global.reloadHandler')
 await global.reloadHandler(true)
 await m.react('✔️')
-conn.reply(m.chat, '✿ La sesión fue recargada correctamente.', m)
+conn.reply(m.chat, '★ La sesión fue recargada correctamente.', m)
 break
 }}} catch (error) {
 await m.react('✖️')
