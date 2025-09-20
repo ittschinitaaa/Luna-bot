@@ -2,7 +2,9 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 let isClose = { 'open': 'not_announcement', 'abrir': 'not_announcement', 'close': 'announcement', 'cerrar': 'announcement', }[command]
 await conn.groupSettingUpdate(m.chat, isClose)
 if (isClose === 'not_announcement') {
+await m.react('✔️')
 m.reply(`❀ *Ya pueden escribir en este grupo.*`)
+await m.react('✖️')
 } else if (isClose === 'announcement') {
 m.reply(`❀ *Sólo los admins pueden escribir en este grupo.*`)
 }}
