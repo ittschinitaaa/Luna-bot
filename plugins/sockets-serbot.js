@@ -198,7 +198,7 @@ let chtxt = ` ֯　ׅ🫗ֶ֟ㅤ *Usuario ›* ${userName}
 > *¡Conviértete en un sub-bot ahora, únete al canal oficial!*\nhttps://whatsapp.com/channel/0029Vb6GYInD8SDuyzHk3f3l`
 
 let ppch = await sock.profilePictureUrl(m.sender, 'image').catch(_ => "https://stellarwa.xyz/files/1757206448404.jpeg")
-await global.conn.sendMessage(my.ch3, { text: chtxt,
+await global.conn.sendMessage(my.ch, { text: chtxt,
 contextInfo: { 
 externalAdReply: {
 title: "⭐ 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗖𝗜𝗢́𝗡 ⭐",
