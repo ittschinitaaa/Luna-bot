@@ -16,9 +16,9 @@ let grupos = `*Hola!, te invito a unirte a los grupos oficiales de la Bot para c
 
 > *⏤͟͟͞͞★:* https://whatsapp.com/channel/0029Vb6KW2Y0AgW5RA4QIS1B
 
-> ${dev}`
+> © `
 
-await conn.sendFile(m.chat, catalogo, "grupos.jpg", grupos, m)
+await conn.sendFile(m.chat, catalogo, "https://files.catbox.moe/jgw4fy.jpg", grupos, m)
 
 await m.react = " 🌟", 
 
