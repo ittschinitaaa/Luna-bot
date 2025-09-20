@@ -44,7 +44,7 @@ global.author = "© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ᥴһіᥒᥲ🔥"
 global.etiqueta = "ᥴһіᥒᥲ"
 global.currency = "¥enes"
 global.banner = "https://files.catbox.moe/jgw4fy.jpg"
-global.icono = "https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg"
+global.icono = "https://files.catbox.moe/2qah6g.jpg"
 global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
